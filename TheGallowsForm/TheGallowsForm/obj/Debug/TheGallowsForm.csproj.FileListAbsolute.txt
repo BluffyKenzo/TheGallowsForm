@@ -1,0 +1,14 @@
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\bin\Debug\TheGallowsForm.exe.config
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\bin\Debug\TheGallowsForm.exe
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\bin\Debug\TheGallowsForm.pdb
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.csproj.AssemblyReference.cache
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.Form1.resources
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.Properties.Resources.resources
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.csproj.GenerateResource.cache
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.csproj.CoreCompileInputs.cache
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.exe
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.pdb
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.startGame.resources
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.onePlayer.resources
+C:\Users\loltr\source\repos\TheGallowsForm\TheGallowsForm\obj\Debug\TheGallowsForm.twoPlayer.resources
